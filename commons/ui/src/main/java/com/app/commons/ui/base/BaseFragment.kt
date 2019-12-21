@@ -19,7 +19,7 @@ abstract class BaseFragment<B : ViewDataBinding, M : ViewModel>  (
 ): Fragment() {
 
     @Inject
-    //lateinit var viewModel: M
+    lateinit var viewModel: M
     lateinit var viewBinding: B
 
     abstract fun onInitDependencyInjection()
