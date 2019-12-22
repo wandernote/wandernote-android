@@ -2,8 +2,8 @@ package com.mucahitkambur.dynamicfeature.home.ui
 
 import com.app.commons.ui.base.BaseFragment
 import com.app.wandernote.App
-import com.mucahitkambur.dynamicfeature.R
-import com.mucahitkambur.dynamicfeature.databinding.FragmentHomeBinding
+import com.mucahitkambur.dynamicfeature.home.R
+import com.mucahitkambur.dynamicfeature.home.databinding.FragmentHomeBinding
 import com.mucahitkambur.dynamicfeature.home.ui.di.DaggerHomeComponent
 import com.mucahitkambur.dynamicfeature.home.ui.di.HomeModule
 
