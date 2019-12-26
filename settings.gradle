@@ -1,2 +1,2 @@
-include ':app', ':core', 'features:home', 'commons:ui'
+include ':app', ':core', 'commons:views', 'features:home', 'commons:ui'
 rootProject.name='WanderNote'

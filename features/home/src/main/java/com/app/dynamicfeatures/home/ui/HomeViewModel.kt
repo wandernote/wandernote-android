@@ -1,4 +1,4 @@
-package com.mucahitkambur.dynamicfeature.home.ui
+package com.app.dynamicfeatures.home.ui
 
 import androidx.lifecycle.ViewModel
 

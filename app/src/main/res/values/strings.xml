@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">WanderNote</string>
     <string name="title_dynamicfeature">Module Title</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_add_note">Add Note</string>
+    <string name="bottom_navigation_note_list">Note List</string>
 </resources>

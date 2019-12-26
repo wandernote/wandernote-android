@@ -1,8 +1,8 @@
-package com.mucahitkambur.dynamicfeature.home.ui.di
+package com.app.dynamicfeatures.home.ui.di
 
 import com.app.core.di.CoreComponent
 import com.app.core.di.scopes.FeatureScope
-import com.mucahitkambur.dynamicfeature.home.ui.HomeFragment
+import com.app.dynamicfeatures.home.ui.HomeFragment
 import dagger.Component
 
 @FeatureScope

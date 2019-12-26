@@ -1,11 +1,11 @@
-package com.mucahitkambur.dynamicfeature.home.ui
+package com.app.dynamicfeatures.home.ui
 
 import com.app.commons.ui.base.BaseFragment
 import com.app.wandernote.App
-import com.mucahitkambur.dynamicfeature.home.R
-import com.mucahitkambur.dynamicfeature.home.databinding.FragmentHomeBinding
-import com.mucahitkambur.dynamicfeature.home.ui.di.DaggerHomeComponent
-import com.mucahitkambur.dynamicfeature.home.ui.di.HomeModule
+import com.app.dynamicfeatures.home.R
+import com.app.dynamicfeatures.home.databinding.FragmentHomeBinding
+import com.app.dynamicfeatures.home.ui.di.DaggerHomeComponent
+import com.app.dynamicfeatures.home.ui.di.HomeModule
 
 class HomeFragment : BaseFragment<FragmentHomeBinding, HomeViewModel>(
     R.layout.fragment_home

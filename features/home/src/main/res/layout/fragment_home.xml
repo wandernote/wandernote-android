@@ -5,7 +5,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.mucahitkambur.dynamicfeature.home.ui.HomeViewModel" />
+            type="com.app.dynamicfeatures.home.ui.HomeViewModel" />
     </data>
 
     <FrameLayout

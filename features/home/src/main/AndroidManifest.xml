@@ -1,5 +1,5 @@
 <manifest xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.mucahitkambur.dynamicfeature.home">
+    package="com.app.dynamicfeatures.home">
 
     <dist:module
         dist:instant="true"

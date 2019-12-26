@@ -1,9 +1,9 @@
-package com.mucahitkambur.dynamicfeature.home.ui.di
+package com.app.dynamicfeatures.home.ui.di
 
 import com.app.commons.ui.extensions.viewModel
 import com.app.core.di.scopes.FeatureScope
-import com.mucahitkambur.dynamicfeature.home.ui.HomeFragment
-import com.mucahitkambur.dynamicfeature.home.ui.HomeViewModel
+import com.app.dynamicfeatures.home.ui.HomeFragment
+import com.app.dynamicfeatures.home.ui.HomeViewModel
 import dagger.Module
 import dagger.Provides
 
